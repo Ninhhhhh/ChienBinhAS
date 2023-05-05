@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: cc3d8ee02cca0e5409895fa9677a7e6d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nhanvat-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cdfb66e287d11449e1204ad647f33c
+      internalID: -1648474602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a055457bcb2431d4589ff64a99d4a291
+      internalID: -721367458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa24060702c7042b8a6df2c432bca9
+      internalID: 614441100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb87f911b303c4097106b9b0e643bd
+      internalID: -703336460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159a799356e1684fbb7983cad957bbe
+      internalID: 355516663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e44ea519421ba4eab92136076abbe6
+      internalID: 2023601079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 572.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4cd90a07e68044824d8aa488ec9c8
+      internalID: 1106149903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df2583afe94ff4ca5f946dbc263721
+      internalID: -78956995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3edef9c0f9700448b909062e0f53f1
+      internalID: -689923066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709df9341e09b3c4eadef31ae5c2dc5c
+      internalID: -1715554318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f718e32210bb840ac0e5927e7f7db2
+      internalID: -361884252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d899ec5744807246ba70809fa09e25b
+      internalID: -631926152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4842c28ee7104491ff3c2e65c456b
+      internalID: 818235499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 515.7273
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8504947e6d2c41a7d99d894bd6d44
+      internalID: -458507598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651180371ad75d24db5bda67c76dfecc
+      internalID: -1729120246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d7dc7189f95d4a9facd2a26f0cc0b
+      internalID: -1085522576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827dd03e02af14a4291a5194b6333639
+      internalID: -1716911687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c066c1b42075b4396320236e24b657
+      internalID: 1280551281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5178f4202222ddf458a0ded16b3aa36c
+      internalID: -409253796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c092c225bd2d749b336395293627c2
+      internalID: -1280119033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 458.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba56f71bd7eea41825f772aba75144
+      internalID: -2097050180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d7282d39c9114a83ceb13bdab7598
+      internalID: -189604891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8bf4c2ff61d8408d60f8df1ad30c8
+      internalID: 1434428795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60b5c2a78a8d24fa6332e07934e154
+      internalID: 795815716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628ad323337e49498c9e649d19ab363
+      internalID: -1334422938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f17e0a9edff242a5ddf58af15a540
+      internalID: 1348012110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ead01f52e554840b96fabc18eef156
+      internalID: -945456085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 401.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e061b801cc04e347a49e86e700fd67e
+      internalID: 494304435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbfd56df22b644f94ef65a88ccd676
+      internalID: -403272616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7007fe10180a5ab498b5c6b9070839e8
+      internalID: 1221818287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d89928bbf8ae2419143828262bb4fb
+      internalID: -267362568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79929e8392dd8274d9bff4dab32b3185
+      internalID: 1262579040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518dc14871f3ceb4aa4247133b13de3c
+      internalID: 700055719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b889e1482dcc204f8f1e420f7e46c1b
+      internalID: 1289285068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 344.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f8ef43e018a2340be430372177593c
+      internalID: -2008346834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea74e2a3d5d114580e7ccb14aa5ecc
+      internalID: 332535817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee16cdc1ee86045af899c2703d5721
+      internalID: -1391165659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f12640ff50b14c889fd7348639c74
+      internalID: 538874712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34b534c32e8c7148bc7345eedec0882
+      internalID: -1185319873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f48742594ab1649b00ad3b221f6020
+      internalID: 1368096343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9bffc3783e1646abd6a3b2018408d
+      internalID: 1285907285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 287.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6ae42e39b7b2498b04d1656037ec8
+      internalID: -1248501881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab24886a4f954419286e2b160c7747
+      internalID: 2003434753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be629d6561f4dd488e704b004a160aa
+      internalID: -1215712507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc613857ef440d747be9b182d8133402
+      internalID: -2052245937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc112ccbe5a634468029ca4d00dcb1d
+      internalID: -735922070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1585b21798c65fa4ca7a7a4c886395da
+      internalID: 1750490368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d13138d479a884cb5f7d57ca914977
+      internalID: 883592987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 230.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d79441443312540ac62e8ee5672348
+      internalID: 1921721573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321dd07e7c865e42a035f8000d9d930
+      internalID: 1640223553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeddc67a8fbd0846a7458461cfc772b
+      internalID: 1181153239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad8a00a3e0ae31448441e71d5be1e6d
+      internalID: -695570466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9c649f5c356f4ba179527095cd21f
+      internalID: -1813236806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c87e51c25b2944a916a137567e9bff
+      internalID: -2116715159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27346c16b7580af40a595fba67bc6173
+      internalID: 804380879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 173.72726
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed12d1d0e464b5449370e760f013b87
+      internalID: -531665380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa10a726d424264792ccd6b3821c998
+      internalID: 379641523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e89647b0463b419c4f3ad74c1a2ea
+      internalID: -1742101159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ee0ce0d05dcb46a2dc5cd8ebed66c
+      internalID: 1520974401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb61a9ab2d1f504fb30613b1ab5913a
+      internalID: 1784407218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281612c06d7a4045ae32965087f8995
+      internalID: 1926470876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39b780c3dee6849a9fd3107b55133f
+      internalID: 2075495759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 116.72727
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9069e4e5e886448e79a7acf6b58f5
+      internalID: 1466755842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7186323b0c5de489227ce461e76d62
+      internalID: -1627564425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a80a2adb38bc3488b7b11dad32793e
+      internalID: 1759799640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195c4cf5f0085a4f8299ff480ffa2bd
+      internalID: -1921088871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea8b8aabedfbc04b8a24179bf22a28b
+      internalID: 535404957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ea4fc1b0a7ff4e975ce9b2ea4090f
+      internalID: -2042867582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811deb1469577b4190397aba511f7a5
+      internalID: -1403282500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 59.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ead31bdd63815438986b63d34b90bf
+      internalID: 1608336893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0db8196e948cb24ba5f8bac53ec1c9b
+      internalID: 590811359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a804650ab556a4e9ea47a8af217c8c
+      internalID: -946945996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc0ed332c3d20448352765f00c7bf9
+      internalID: -1266937795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699ae1ff1e092d64bbae87abac7f9823
+      internalID: 1030626658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e0358f1355c246892f5dfc3e8215d
+      internalID: -970353928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54435b4512b62d842ab93f00298b66f9
+      internalID: -1959333496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhanvat-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2.727272
+        width: 77.42857
+        height: 57.272728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60646ff64fe0641964ed8c1da6a285
+      internalID: 1333263858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nhanvat-removebg_0: -1648474602
+      nhanvat-removebg_1: -721367458
+      nhanvat-removebg_10: -361884252
+      nhanvat-removebg_11: -631926152
+      nhanvat-removebg_12: 818235499
+      nhanvat-removebg_13: -458507598
+      nhanvat-removebg_14: -1729120246
+      nhanvat-removebg_15: -1085522576
+      nhanvat-removebg_16: -1716911687
+      nhanvat-removebg_17: 1280551281
+      nhanvat-removebg_18: -409253796
+      nhanvat-removebg_19: -1280119033
+      nhanvat-removebg_2: 614441100
+      nhanvat-removebg_20: -2097050180
+      nhanvat-removebg_21: -189604891
+      nhanvat-removebg_22: 1434428795
+      nhanvat-removebg_23: 795815716
+      nhanvat-removebg_24: -1334422938
+      nhanvat-removebg_25: 1348012110
+      nhanvat-removebg_26: -945456085
+      nhanvat-removebg_27: 494304435
+      nhanvat-removebg_28: -403272616
+      nhanvat-removebg_29: 1221818287
+      nhanvat-removebg_3: -703336460
+      nhanvat-removebg_30: -267362568
+      nhanvat-removebg_31: 1262579040
+      nhanvat-removebg_32: 700055719
+      nhanvat-removebg_33: 1289285068
+      nhanvat-removebg_34: -2008346834
+      nhanvat-removebg_35: 332535817
+      nhanvat-removebg_36: -1391165659
+      nhanvat-removebg_37: 538874712
+      nhanvat-removebg_38: -1185319873
+      nhanvat-removebg_39: 1368096343
+      nhanvat-removebg_4: 355516663
+      nhanvat-removebg_40: 1285907285
+      nhanvat-removebg_41: -1248501881
+      nhanvat-removebg_42: 2003434753
+      nhanvat-removebg_43: -1215712507
+      nhanvat-removebg_44: -2052245937
+      nhanvat-removebg_45: -735922070
+      nhanvat-removebg_46: 1750490368
+      nhanvat-removebg_47: 883592987
+      nhanvat-removebg_48: 1921721573
+      nhanvat-removebg_49: 1640223553
+      nhanvat-removebg_5: 2023601079
+      nhanvat-removebg_50: 1181153239
+      nhanvat-removebg_51: -695570466
+      nhanvat-removebg_52: -1813236806
+      nhanvat-removebg_53: -2116715159
+      nhanvat-removebg_54: 804380879
+      nhanvat-removebg_55: -531665380
+      nhanvat-removebg_56: 379641523
+      nhanvat-removebg_57: -1742101159
+      nhanvat-removebg_58: 1520974401
+      nhanvat-removebg_59: 1784407218
+      nhanvat-removebg_6: 1106149903
+      nhanvat-removebg_60: 1926470876
+      nhanvat-removebg_61: 2075495759
+      nhanvat-removebg_62: 1466755842
+      nhanvat-removebg_63: -1627564425
+      nhanvat-removebg_64: 1759799640
+      nhanvat-removebg_65: -1921088871
+      nhanvat-removebg_66: 535404957
+      nhanvat-removebg_67: -2042867582
+      nhanvat-removebg_68: -1403282500
+      nhanvat-removebg_69: 1608336893
+      nhanvat-removebg_7: -78956995
+      nhanvat-removebg_70: 590811359
+      nhanvat-removebg_71: -946945996
+      nhanvat-removebg_72: -1266937795
+      nhanvat-removebg_73: 1030626658
+      nhanvat-removebg_74: -970353928
+      nhanvat-removebg_75: -1959333496
+      nhanvat-removebg_76: 1333263858
+      nhanvat-removebg_8: -689923066
+      nhanvat-removebg_9: -1715554318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
